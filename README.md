@@ -5,9 +5,6 @@ date: "22/11/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 ## Simulador de distribución de visitantes al Caminito del Rey
