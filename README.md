@@ -1,5 +1,5 @@
 ---
-title: "Readme"
+title: "Simulador de distribución de visitantes al Caminito del Rey"
 author: "Francisco Javier Barón López"
 date: "22/11/2019"
 output: html_document
